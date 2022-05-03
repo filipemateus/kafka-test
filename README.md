@@ -18,9 +18,14 @@ This documentation contain files and ref used to setup the environment for the t
 - [ ] Setup the Zookeeper and broker to secure comunicatitons using Kerberos
 
 
-###
+### Description 
+
+* For this test I created a EC2 instance and Ubuntu 20.04 linux operacional system.
+* All software used was installed (Zookepeer, Kafka, Prometheus, Grafana, kafkat) directly on instance's operational system in the systemd
+* DNS chosen was https://duckdns.org
 
 ### Refs
 
 - [My github profile] (https://github.com/filipemateus)
 - [Kafka-test link] (https://github.com/filipemateus/kafka-test)
+- (Apache Kafka) [https://kafka.apache.org/quickstart]
