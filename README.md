@@ -21,9 +21,9 @@ This documentation contain files and ref used to setup the environment for the t
 ### Description 
 
 * For this test I created a EC2 instance and Ubuntu 20.04 linux operacional system.
-* All software used was installed (Zookepeer, Kafka, Prometheus, Grafana, kafkat) directly on instance's operational system in the systemd
+* All software used (Zookepeer, Aapache Kafka, Prometheus, Grafana, Kafkat) was installed directly on instance's operational system in the systemd
 * DNS chosen was https://duckdns.org
-
+* HTTPs by letsencrypt certbot and nginx
 
 ### Producing and consuming mensages
 
